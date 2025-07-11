@@ -29,7 +29,7 @@ Ke kterékoliv přednášce se můžete kdykoliv vrátit:
 
 #### HTML
 
-- [Power Point](docs/presentation/html/HTML-2025/code_like_girl_html_2025.pptx)
+- [Power Point](presentations/html/HTML-2025/code_like_girl_html_2025.pptx)
 
 #### CSS
 
